@@ -1,6 +1,6 @@
 ![logo](https://github.com/0Shadow119/0Shadow119/blob/main/20230301_101123.jpg)
 <h1 align="center">Hi 👋, I'm Shadow</h1>
-<img align="right" alt="coading" width="400" src="https://images.app.goo.gl/LBxjfZyiNvZrcv1u5">
+<img align="right"alt="coding"width="400" scr="https://images.app.goo.gl/uZw9PyP8XU243WW78"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0shadow119&label=Profile%20views&color=0e75b6&style=flat" alt="0shadow119" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bloodline119" target="blank"><img src="https://img.shields.io/twitter/follow/bloodline119?logo=twitter&style=for-the-badge" alt="bloodline119" /></a> </p>
